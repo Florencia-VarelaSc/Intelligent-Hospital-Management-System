@@ -1,4 +1,5 @@
-# TUP TP2
+# Sistema Web Inteligente para la Gestión y Consulta de Hospitales Públicos 
+# Intelligent Hospital Management System
 
  Proyecto para la asignatura Programacion III, de la Tecnicatura Universitaria en Programacion. Desarrollando una aplicación web con gestión de tareas mediante metodología Kanban.
 
