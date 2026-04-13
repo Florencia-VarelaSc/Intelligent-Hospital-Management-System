@@ -8,7 +8,7 @@
  * Varela Scelzi Florencia
  * Velasco Bautista
 
-# NOMBRE DEL PORYECTO
+# NOMBRE DEL PROYECTO
 
 Sistema Web Inteligente de Gestión y Consulta Hospitalaria (SIGCH)
 
