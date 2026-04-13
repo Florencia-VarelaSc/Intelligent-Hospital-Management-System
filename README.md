@@ -11,7 +11,7 @@
 
 Sistema Web Inteligente de Gestión y Consulta Hospitalaria (SIGCH)
 
-#BREVE DESCRIPCION DEL PORYECTO
+#BREVE DESCRIPCION DEL PROYECTO
 
 El presente proyecto propone el desarrollo de una plataforma web orientada a optimizar la organización y gestión de la atención en hospitales públicos.
 
