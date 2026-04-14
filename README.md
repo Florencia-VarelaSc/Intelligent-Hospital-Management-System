@@ -12,7 +12,7 @@
 
 Sistema Web Inteligente de Gestión y Consulta Hospitalaria (SIGCH)
 
-#BREVE DESCRIPCION DEL PROYECTO
+- BREVE DESCRIPCION DEL PROYECTO
 
 El presente proyecto propone el desarrollo de una plataforma web orientada a optimizar la organización y gestión de la atención en hospitales públicos.
 
@@ -22,11 +22,11 @@ Adicionalmente, la plataforma incluirá un módulo público accesible por los ci
 
 El sistema incorporará herramientas de inteligencia artificial para mejorar la predicción de demoras, optimizar la clasificación de consultas y generar recomendaciones inteligentes tanto para el personal como para los usuarios.
 
-#OBJETIVO GENERAL
+- OBJETIVO GENERAL
 
 Desarrollar una plataforma web que permita mejorar la organización interna de hospitales públicos y brindar información en tiempo real a los ciudadanos, optimizando la distribución de la demanda y reduciendo los tiempos de espera.
 
-#OBJETIVOS ESPECIFICOS
+- OBJETIVOS ESPECIFICOS
 --Registrar y administrar pacientes dentro del sistema hospitalario.
 --Gestionar listas de espera en tiempo real.
 --Clasificar consultas según nivel de prioridad.
