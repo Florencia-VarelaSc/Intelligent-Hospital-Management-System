@@ -27,13 +27,13 @@ El sistema incorporará herramientas de inteligencia artificial para mejorar la 
 Desarrollar una plataforma web que permita mejorar la organización interna de hospitales públicos y brindar información en tiempo real a los ciudadanos, optimizando la distribución de la demanda y reduciendo los tiempos de espera.
 
 - OBJETIVOS ESPECIFICOS
---Registrar y administrar pacientes dentro del sistema hospitalario.
---Gestionar listas de espera en tiempo real.
---Clasificar consultas según nivel de prioridad.
---Visualizar el estado operativo del hospital (abierto, saturado, con demora, etc.).
---Permitir a los ciudadanos consultar la disponibilidad de hospitales.
---Comparar tiempos de espera entre diferentes centros de salud.
---Incorporar inteligencia artificial para:
---Predicción de tiempos de espera.
---Clasificación automática de consultas.
---Recomendación de hospitales según demanda.
+Registrar y administrar pacientes dentro del sistema hospitalario.
+Gestionar listas de espera en tiempo real.
+Clasificar consultas según nivel de prioridad.
+Visualizar el estado operativo del hospital (abierto, saturado, con demora, etc.).
+Permitir a los ciudadanos consultar la disponibilidad de hospitales.
+Comparar tiempos de espera entre diferentes centros de salud.
+Incorporar inteligencia artificial para:
+Predicción de tiempos de espera.
+Clasificación automática de consultas.
+Recomendación de hospitales según demanda.
